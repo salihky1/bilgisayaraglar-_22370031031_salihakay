@@ -1,5 +1,5 @@
-##AĞ YAPILANDIRMA ARACI
-##Yazılım Ödevi
+#AĞ YAPILANDIRMA ARACI
+#Yazılım Ödevi
 
 
 ÖĞRETİM ELEMANI: Dr. Öğr. Üyesi HASAN SERDAR
@@ -10,7 +10,7 @@ DERS : Bilgisayar Ağları
 
 
 
-##Kaynaklar:
+#Kaynaklar:
 https://medium.com/three-arrows-security/scapy-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-e2b1a264898a%20
 https://medium.com/@aykutuludag/python-os-mod%C3%BCl%C3%BC-1e6eced93069%20github%20,
 https://pypi.org/project/speedtest-cli/,
@@ -19,7 +19,7 @@ https://networkx.org/documentation/stable/tutorial.html,
 https://matplotlib.org
 
 
-1.Fonksiyonum ağ tarayıcı
+• 1.Fonksiyonum ağ tarayıcı
 İlk olarak ağ tarayıcı seçeneğini kullandım. Tarama yapmak için 192.168.1.1/24 IP aralığını girdim. Tarama sonucunda ağa bağlı cihazları aşağıdaki gibi çıktı.
 •	IP Adresi: 192.168.1.1 - MAC Adresi: 00:11:22:33:44:55
 •	IP Adresi: 192.168.1.2 - MAC Adresi: 00:11:22:33:44:66
