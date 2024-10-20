@@ -1,5 +1,5 @@
-#AĞ YAPILANDIRMA ARACI
-#Yazılım Ödevi
+AĞ YAPILANDIRMA ARACI
+Yazılım Ödevi
 
 
 ÖĞRETİM ELEMANI: Dr. Öğr. Üyesi HASAN SERDAR
@@ -10,7 +10,7 @@ DERS : Bilgisayar Ağları
 
 
 
-#Kaynaklar:
+Kaynaklar:
 https://medium.com/three-arrows-security/scapy-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-e2b1a264898a%20
 https://medium.com/@aykutuludag/python-os-mod%C3%BCl%C3%BC-1e6eced93069%20github%20,
 https://pypi.org/project/speedtest-cli/,
